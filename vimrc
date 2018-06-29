@@ -11,7 +11,6 @@ colorscheme solarized
 filetype on
 filetype plugin indent on
 
-
 set autoindent
 set autowrite                         " auto write files before commands like :next and :make
 set showmatch                         " show matching parens
